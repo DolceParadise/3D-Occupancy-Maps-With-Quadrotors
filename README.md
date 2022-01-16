@@ -46,7 +46,7 @@ If you'd like to contribute to this project in any of the above fields or add a 
 
 ## Acknowledgement
 
-This project was made as by a student team of the RoboReg, a robotics research group part of the [Robotics Club IIT BHU](https://github.com/Robotics-Club-IIT-BHU). All the external files in this project are open source and used in good faith. We used the source code from the following respositories and we'd like to thank their maintaners. 
+This project was made by a student team of the RoboReg, a robotics research group part of the [Robotics Club IIT BHU](https://github.com/Robotics-Club-IIT-BHU). All the external files in this project are open source and used in good faith. We used the source code from the following respositories and we'd like to thank their maintainer. 
 
  1. [RAFALAMAO](https://github.com/RAFALAMAO)/**[hector_quadrotor_noetic](https://github.com/RAFALAMAO/hector_quadrotor_noetic)**
  2. [OctoMap](https://github.com/OctoMap)/**[octomap_mapping](https://github.com/OctoMap/octomap_mapping)**
