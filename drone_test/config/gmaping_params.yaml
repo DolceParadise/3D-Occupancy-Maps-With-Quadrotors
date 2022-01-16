@@ -1,0 +1,6 @@
+maxUrange: 100.0
+xmin: -10.0
+ymin: -10.0
+xmax: 10.0
+ymax: 10.0
+delta: 0.1

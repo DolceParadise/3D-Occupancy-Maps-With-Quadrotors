@@ -1,0 +1,5 @@
+<launch>
+<include file="$(find hector_quadrotor_gazebo)/launch/spawn_quadrotor_with_asus_with_laser.launch" />
+
+  <include file="$(find hector_gazebo_worlds)/launch/rolling_landscape_120m.launch" />
+</launch>
