@@ -1,14 +1,14 @@
 ﻿# 3D-Occupancy-Maps-With-Quadrotors
-To use this project on your local computer
+To use this project on your local computer, clone it with these commands
 
     cd /catkin_ws/src
     git clone https://github.com/DolceParadise/3D-Occupancy-Maps-With-Quadrotors.git
 
 ## Prerequisites
-To run this project, you must have a system ROS Noetic with Teleop Twist Keyboard installed. Follow the instructions below for installation
+To run this project, you must have a system with ROS Noetic and Teleop Twist Keyboard installed. Follow the instructions below for installation
 
     cd /catkin_ws/src/3D-Occupancy-Maps-With-Quadrotors
-    chmod +x script-name-here.sh
+    chmod +x install_ros_noetic.sh
     ./install_ros_noetic.sh
     sudo apt-get install ros-noetic-teleop-twist-keyboard
 
