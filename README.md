@@ -34,6 +34,14 @@ After running these commands, a gazebo world will be launched with the quadrotor
 
     rosrun octomap_server octomap_saver -f my_octomap.bt
    for saving in binary tree format. 
+   
+## Working Demo 
+
+
+https://user-images.githubusercontent.com/74451989/163691225-e5de2031-65c9-4553-9bf0-5f4ebf382c77.mp4
+
+
+
 
 ## Map your own world 
 You can map any world using this project. Just replace the new_world in 3D-Occupancy-Maps-With-Quadrotors/drone_test/worlds and rename it new_world. Post that, follow the commands given above and voila! You can create the occupancy map of your gazebo world. 
