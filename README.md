@@ -61,7 +61,7 @@ This project was made by a student team of the RoboReg, a robotics research grou
 
 ## 
 Made with the valuable contributions of 
-|<img src="https://avatars.githubusercontent.com/u/77875542?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/96468536?v=4" alt="drawing" width="150"/> | 
-|--|--|
-| [Chahak Jethani](https://github.com/sherlockholmes1603) | [Amitesh Vatsa](https://github.com/vtsamit) |
+|<img src="https://avatars.githubusercontent.com/u/77875542?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/96468536?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/96470655?v=4" alt="drawing" width="150"/>
+|--|--|--|
+| [Chahak Jethani](https://github.com/sherlockholmes1603) | [Amitesh Vatsa](https://github.com/vtsamit) | [Shalini Sihag](https://github.com/Shalini171) | 
 
